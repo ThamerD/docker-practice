@@ -1,0 +1,8 @@
+name: condalock
+channels:
+  - conda-forge
+dependencies:
+  - conda-lock
+  - pandas
+  - matplotlib
+prefix: C:\Users\Thamer\miniforge3\envs\condalock
