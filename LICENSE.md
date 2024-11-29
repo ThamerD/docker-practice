@@ -1,4 +1,4 @@
-Note: This license applies to the all code within the file "docker-publish.yml"
+Note: This license applies only to all the code within the file "docker-publish.yml"
 
 # Software
 
